@@ -1,4 +1,5 @@
 ## lab1 terraform iti :
+# Terraform on AWS
 * 1 - create vpc
 * 2- create internet gateway
 * 3- create natgateway
